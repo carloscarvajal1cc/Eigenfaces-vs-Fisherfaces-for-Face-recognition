@@ -1,4 +1,4 @@
-# UTS_Machine_Learning_A1_13144148
+# Eigenfaces ve Fisherfaces. Face recognition
 
 This work is based on an analysis made to the paper "Eigenfaces vs Fisherfaces" by Belhumeur, Hespanha & Kriegman (1997)
 
